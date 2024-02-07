@@ -1,14 +1,12 @@
 # Compile/run:
-     - Compile using
-            make MetroSim
-     - run executable with
-            ./MetroSim stationsFile passFile [commands]
+- Compile using
+     make MetroSim
+- run executable with
+     ./MetroSim stationsFile passFile [commands]
 
 
 # Program Purpose:
-     The purpose of this program is to design and implement a program that
-     monitors a simulation of a train traveling a simplified course of the
-     Green Line Extension, managing Passengers as they board and depart at
+The purpose of this program is to design and implement a program that monitors a simulation of a train traveling a simplified course of the Green Line Extension, managing Passengers as they board and depart at
      specified stops along the way. There are three main, high-level tasks
      for this program. The first is to create an interactive front-end
      simulation that works with both files and the command line. The second
