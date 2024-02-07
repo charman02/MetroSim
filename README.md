@@ -1,10 +1,5 @@
 # Compile/run:
-- Compile using
-
      make MetroSim
-  
-- run executable with
-  
      ./MetroSim stationsFile passFile [commands]
 
 
